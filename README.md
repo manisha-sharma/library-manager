@@ -1,7 +1,7 @@
 # Library Manager
 
 **Student:** Manisha Sharma  
-**GitHub:** [manisha-sharma](https://github.com/manisha-sharma)
+**GitHubRepo:** [library-manager](https://github.com/manisha-sharma/library-manager)
 
 Python OOP assignment: abstract `LibraryItem`, child types (`Book`, `Magazine`, `DVD`), and `Member` borrow/return rules. Demonstrates inheritance, polymorphism, encapsulation, and `ValueError` handling.
 
